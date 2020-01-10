@@ -1,0 +1,3 @@
+jariJari = float(input("Masukkan jari - jari lingkaran : "))
+r=jariJari
+print("luas lingkaran adalah : "+str(r*3.14))
